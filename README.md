@@ -18,11 +18,7 @@
 
 ---
 
-### 🏆 GitHub Trophies:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jafarm83&theme=gruvbox" alt="Trophies" />
-</p>
 
 ---
 

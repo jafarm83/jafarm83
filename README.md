@@ -1,6 +1,6 @@
 ### Hi there 👋  
 <h1 align="center">Hi there 👋, I'm Jafar</h1>
-<h3 align="center">Computer Science Enthusiast | Python, SQL, Java | AI & Machine Learning | STEM Educator</h3>
+<h3 align="center">Computer Science Enthusiast | Python, PHP | AI & Machine Learning
 
 
 ---

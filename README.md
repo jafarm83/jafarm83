@@ -48,7 +48,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafarm83&theme=dark" alt="Jafar's Streak" />
+  <!-- Updated to a more stable server (DemoLab) to fix errors -->
+  <img src="https://streak-stats.demolab.com?user=jafarm83&theme=dark" alt="Jafar's Streak" />
 </p>
 
 ---
@@ -56,8 +57,8 @@
 ### 🤝 Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jafar LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Jafar Email" /></a>
+<a href="https://www.linkedin.com/in/jafar-mohammadi-256111353" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jafar LinkedIn" /></a>
+<a href="mailto:a.jafarmohammadi13832000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Jafar Email" /></a>
 </p>
 
 <p align="right">

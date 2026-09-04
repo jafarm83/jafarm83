@@ -27,6 +27,8 @@ current_goals: Mastering PyTorch internals & Transformers architecture
 learning_philosophy: "Theory informed by code, code validated by metrics."
 ```
 
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -38,15 +40,17 @@ learning_philosophy: "Theory informed by code, code validated by metrics."
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jafarm83&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jafarm83&show_icons=true&theme=radical&hide_border=true&v=1" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafarm83&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarm83&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarm83&layout=compact&theme=radical&hide_border=true&v=1" width="45%" />
 </p>
 
 ---

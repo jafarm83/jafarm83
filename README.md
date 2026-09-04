@@ -72,14 +72,13 @@ I'm **Jafar Mohammadi** — an AI engineer and full‑stack developer passionate
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jafarmohammadi&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=cccccc&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jafarmohammadi&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=cccccc&hide_border=true&count_private=true&cache_seconds=1800" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafarmohammadi&theme=dark&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=cccccc&dates=cccccc&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarmohammadi&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00FF41&text_color=cccccc&hide_border=true&langs_count=8" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarmohammadi&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00FF41&text_color=cccccc&hide_border=true&langs_count=8&cache_seconds=1800" width="60%" />
 </p>
-
 ---
 
 ## 📡 Contact

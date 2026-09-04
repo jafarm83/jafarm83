@@ -22,12 +22,17 @@
 
 ## 👨‍💻 About Me
 
-I'm **Jafar Mohammadi** — an AI engineer and full‑stack developer passionate about building intelligent, scalable systems.
-
-- 🧠 Currently diving into **autonomous agents & LLMs**
-- ⚙️ Building microservices with **FastAPI + Laravel**
-- ☁️ Orchestrating with **Docker & Kubernetes**
-- 🎯 Mission: launch a personal AI product in 2026
+┌─────────────────────────────────────────────────────────────┐
+│  USER:      jafar.mohammadi                                │
+│  ROLE:      AI Engineer · Full‑Stack Developer            │
+│  STATUS:    🟢 Active — ready for deployment              │
+│  MISSION:   Build autonomous AI infrastructure             │
+├─────────────────────────────────────────────────────────────┤
+│  🧠  Current Focus:  Autonomous Agents & LLMs             │
+│  ⚙️  Backend:        FastAPI · Laravel                    │
+│  ☁️  Orchestration:  Docker · Kubernetes                  │
+│  🎯  Goal:           Launch AI product in 2026            │
+└─────────────────────────────────────────────────────────────┘
 
 ---
 
@@ -83,14 +88,13 @@ I'm **Jafar Mohammadi** — an AI engineer and full‑stack developer passionate
 
 ## 📡 Contact
 
-<p align="center">
-  <a href="https://linkedin.com/in/jafar"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
-  <a href="https://twitter.com/jafar"><img src="https://img.shields.io/badge/X_(TWITTER)-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
-  <a href="mailto:jafar@example.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
-</p>
+<p align="center"> <!-- لینک‌های موجود با تم مشکی و سبز --> <a href="https://linkedin.com/in/jafar"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a> <a href="https://twitter.com/jafar"><img src="https://img.shields.io/badge/X_(TWITTER)-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a> <!-- اضافه‌شده: وب‌سایت شخصی -->
+<a href="https://JafarM83.ir"><img src="https://img.shields.io/badge/MY_SITE-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jafarmohammadi&label=UPLINK_ACCESS_COUNT&color=00FF41&style=flat-square" alt="Visitor Counter" />
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/STATUS-READY_FOR_MISSION-00FF41?style=flat-square&logo=matrix&logoColor=00FF41&labelColor=0a0a0a" />
-</p>
+<!-- اضافه‌شده: اینستاگرام -->
+<a href="https://instagram.com/jafar_m83"><img src="https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
+
+<!-- ایمیل -->
+<a href="mailto:jafar@example.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
+
+</p><p align="center"> <img src="https://komarev.com/ghpvc/?username=jafarmohammadi&label=UPLINK_ACCESS_COUNT&color=00FF41&style=flat-square" alt="Visitor Counter" /> &nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://img.shields.io/badge/STATUS-READY_FOR_MISSION-00FF41?style=flat-square&logo=matrix&logoColor=00FF41&labelColor=0a0a0a" /> </p>

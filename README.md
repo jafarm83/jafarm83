@@ -14,8 +14,8 @@
 
 ---
 
-<!-- کره زمین سه‌بعدی هکری چرخان (لود مستقیم، سبک و پایدار) -->
-<img src="https://images.squarespace-cdn.com/content/v1/5b7dc12cc27ba35a0f5df7a5/1574880562624-O8E20XQ9277C06XMQ18A/globe_matrix_opt.gif" width="340" alt="Cyber Wireframe Globe" />
+<!-- کره زمین سه‌بعدی هکری چرخان (لینک پایدارتر در ایران) -->
+<img src="https://cdn.dribbble.com/users/173992/screenshots/14593004/media/6a4d6f5d63d001bf882913f719c1e71b.gif" width="340" alt="Cyber Wireframe Globe" />
 
 <br/>
 <samp><b>[ GEO-STATIONARY ORBIT // TARGET: 35.6892° N, 51.3890° E ]</b></samp>
@@ -72,12 +72,12 @@
 ### 📡 Intercepted Satellite Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jafarm83&show_icons=true&theme=radical&hide_border=true&v=5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jafarm83&show_icons=true&theme=radical&hide_border=true&v=6" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafarm83&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarm83&layout=compact&theme=radical&hide_border=true&v=5" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarm83&layout=compact&theme=radical&hide_border=true&v=6" width="45%" />
 </p>
 
 > **نکته:** در صورت مشاهده خطای `Error Fetching Resource`، از روش GitHub Actions برای ذخیره‌سازی تصاویر به‌صورت محلی استفاده کنید (فایل `update-stats.yml` را ایجاد و لینک‌ها را به `./stats.svg` و `./top-langs.svg` تغییر دهید).

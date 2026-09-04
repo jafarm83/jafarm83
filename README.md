@@ -1,14 +1,3 @@
-کدی که در گیت‌هاب قرار دادید دچار چند مشکل فنی شده بود: ۱. حذف قابلیت
-جاوااسکریپت در گیت‌هاب: دستور onerror توسط فایروال امنیتی گیت‌هاب (HTML
-Sanitizer) مسدود و حذف می‌شود؛ بنابراین در صورت نبود فایل، تصویر خراب (شکسته)
-نمایش داده می‌شد. ۲. به‌هم‌ریختگی بلوک‌ها: تگ‌های کد (code و Ini) و جدول‌ها بر
-اثر کپی نامناسب شکسته شده بودند و به صورت متن ساده رندر می‌شدند. ۳. لینک مستقیم
-و آماده به کار کره زمین چرخان: آدرس کره زمین به یک منبع مستقیم روی CDN گیت‌هاب
-تغییر یافت تا همین حالا بدون نیاز به آپلود دستی فایل، کره زمین سه‌بعدی و چرخان
-با استایل هکری و سرعت بالا روی تمام شبکه‌ها (از جمله اینترنت ایران) لود شود.
-
-کد کامل، تمیز و اصلاح‌شده برای قرار دادن در README.md:
-
 <div align="center">
 
 <!-- ترمینال تایپ هکری با تم سایبری سبز فسفری -->
@@ -25,7 +14,7 @@ Sanitizer) مسدود و حذف می‌شود؛ بنابراین در صورت �
 
 ---
 
-<!-- کره زمین سه‌بعدی هکری چرخان (لود مستقیم، سبک و پایدار روی اینترنت ایران) -->
+<!-- کره زمین سه‌بعدی هکری چرخان (لود مستقیم، سبک و پایدار) -->
 <img src="https://images.squarespace-cdn.com/content/v1/5b7dc12cc27ba35a0f5df7a5/1574880562624-O8E20XQ9277C06XMQ18A/globe_matrix_opt.gif" width="340" alt="Cyber Wireframe Globe" />
 
 <br/>
@@ -44,8 +33,11 @@ Sanitizer) مسدود و حذف می‌شود؛ بنابراین در صورت �
    ███╔╝  ██╔══██║██╔══╝  ██╔══██║██╔══██╗      CONTAINER : Linux / Docker / Kubernetes
   ███████╗██║  ██║██║     ██║  ██║██║  ██║      OBJECTIVE : Autonomous AI Infrastructure
   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝      TELEMETRY : Uplink Stabilized 🟢
+```
 
-🛰️ Orbital Code Stations (Tech Arsenals)
+---
+
+### 🛰️ Orbital Code Stations (Tech Arsenal)
 
 | Sector                | Core Reactor                      | Payload Capability                           | Clearance    |
 | :-------------------- | :-------------------------------- | :------------------------------------------- | :----------: |
@@ -53,18 +45,69 @@ Sanitizer) مسدود و حذف می‌شود؛ بنابراین در صورت �
 | ⚡ **Backend Warp**    | `PHP`, `FastAPI`, `PostgreSQL`    | High-Throughput REST & Streaming APIs        | `RESTRICTED` |
 | 🛡️ **Defensive Grid** | `Docker`, `Linux (Bash)`, `Git`   | Virtualized Nodes, Automated CI/CD Pipelines | `AUTHORIZED` |
 
-📡 Intercepted Satellite Metrics
+---
 
-👾 Quantum Grid Activity
+### 🪐 Code Planets (Mission Readiness)
 
-📡 Establish Encrypted Link
+| Planet | Language/Tool | Status |
+|--------|---------------|--------|
+| 🟦 **Pythonia** | Python & PyTorch | 🚀 Colonized |
+| 🟪 **PHPiter** | PHP & Laravel | 🌍 Terraforming |
+| 🟧 **Dockeron** | Docker & K8s | 🛰️ Orbiting |
+| 🟩 **GitHubia** | Git & GitHub | ⭐ Home Base |
+| 🔷 **Linuxia** | Linux & Bash | 🖥️ Core System |
 
-مهم‌ترین تغییرات اعمال‌شده:
+---
 
-1.  جدول‌ها و فرمت مارک‌داون: جدول مهارت‌ها (Tech Arsenals) که ساختارش شکسته
-    بود، استانداردسازی شد تا بردرها و ستون‌ها به‌صورت منظم و شیک چیده شوند.
-2.  بلوک کد ASCII Art: کلمات زائد مثل code و Ini حذف شدند و اسکی آرت نام شما در
-    یک بلوک تمیز ini با رنگ‌بندی ترمینالی قرار گرفت.
-3.  لینک کره زمین: تصویر وایرفریم ماتریسی کره زمین به یک لینک بدون فیلتر با
-    پس‌زمینه شفاف (Dark Mode Friendly) تغییر یافت که بلافاصله بدون هیچ کار
-    اضافه‌ای لود می‌شود.
+### 🎯 Future Missions (Roadmap)
+
+- [x] **Phase 1**: Master PyTorch & Transformers
+- [ ] **Phase 2**: Build autonomous AI agents
+- [ ] **Phase 3**: Design scalable microservices
+- [ ] **Phase 4**: Contribute to open-source AI
+- [ ] **Phase 5**: Launch personal AI product
+
+---
+
+### 📡 Intercepted Satellite Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jafarm83&show_icons=true&theme=radical&hide_border=true&v=5" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafarm83&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarm83&layout=compact&theme=radical&hide_border=true&v=5" width="45%" />
+</p>
+
+> **نکته:** در صورت مشاهده خطای `Error Fetching Resource`، از روش GitHub Actions برای ذخیره‌سازی تصاویر به‌صورت محلی استفاده کنید (فایل `update-stats.yml` را ایجاد و لینک‌ها را به `./stats.svg` و `./top-langs.svg` تغییر دهید).
+
+---
+
+### 👾 Quantum Grid Activity (Snake)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jafarm83/jafarm83/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jafarm83/jafarm83/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake contribution grid" src="https://raw.githubusercontent.com/jafarm83/jafarm83/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 📡 Establish Encrypted Link
+
+<p align="center">
+  <a href="https://linkedin.com/in/jafar-mohammadi-256111353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:a.jafarmohammadi13832000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/jafarm83"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jafarm83&label=INTERSTELLAR+VISITORS&color=00FF66&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=800&color=00FF66&center=true&vCenter=true&width=400&lines=TRANSMISSION+END;STAY+CONNECTED...;MAY+THE+CODE+BE+WITH+YOU" alt="Footer" />
+</p>

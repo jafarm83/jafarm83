@@ -1,22 +1,38 @@
 <div align="center">
 
-<!-- ============================================================ -->
-<!--  TYPING HEADER – MATRIX STYLE                                -->
-<!-- ============================================================ -->
+<!-- ================================================================ -->
+<!--  🔹 TERMINAL UPLINK – MATRIX NEO-STYLE                          -->
+<!-- ================================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=550&lines=JAFAR+MOHAMMADI;AI+Engineer+%7C+Full-Stack+Dev;Python+%7C+PyTorch+%7C+Laravel" alt="Typing SVG" />
+<!-- هدر تزئینی بالای تایپ‌رایتر -->
+<pre style="font-family: 'Courier New', monospace; color: #00FF41; background: #0a0a0a; display: inline-block; padding: 4px 18px; border: 1px solid #00FF41; border-radius: 4px; letter-spacing: 2px; font-size: 12px; margin-bottom: -10px;">
+┌─[ UPLINK: SECURE ]─[ NODE: ACTIVE ]─[ ENCRYPTION: AES-256 ]─┐
+</pre>
 
 <br />
 
-<!-- ============================================================ -->
-<!--  SOCIAL BADGES – CLEAN & MODERN                              -->
-<!-- ============================================================ -->
+<!-- تایپ‌رایتر اصلی با خطوط هکری و سایز بزرگتر -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=◈_SYSTEM%3A_JAFAR_MOHAMMADI;◈_ROLE%3A_AI_ENGINEER_%7C_FULL-STACK;◈_STACK%3A_PYTHON_%7C_PYTORCH_%7C_LARAVEL;◈_STATUS%3A_READY_FOR_DEPLOYMENT" alt="Neon Terminal Header" />
+
+<br />
+
+<!-- فوتر تزئینی پایین تایپ‌رایتر -->
+<pre style="font-family: 'Courier New', monospace; color: #00FF41; background: #0a0a0a; display: inline-block; padding: 4px 18px; border: 1px solid #00FF41; border-top: none; border-radius: 0 0 4px 4px; letter-spacing: 2px; font-size: 12px; margin-top: -5px;">
+└─[ MATRIX ]─[ 0.0.0.0 ]─[ PING: 0.01ms ]──────────────────────┘
+</pre>
+
+<br />
+
+<!-- ================================================================ -->
+<!--  SOCIAL BADGES – DARK THEME WITH NEON GREEN TOUCH              -->
+<!-- ================================================================ -->
 
 <p>
-  <a href="https://linkedin.com/in/jafar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/jafar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:jafar@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/jafarmohammadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/jafar"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/jafar"><img src="https://img.shields.io/badge/X_(Twitter)-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="Twitter" /></a>
+  <a href="mailto:jafar@example.com"><img src="https://img.shields.io/badge/Encrypted_Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="Email" /></a>
+  <a href="https://github.com/jafarmohammadi"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="Portfolio" /></a>
 </p>
 
 </div>
@@ -62,36 +78,57 @@ I love mixing **machine learning** with **modern backends** and contributing to 
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Mission Roadmap (Active Grid)
 
-| Mission | Status |
-| :------ | :----- |
-| 🧠 Master PyTorch & Transformers | ✅ Done |
-| 🤖 Build autonomous AI agents | ⏳ In progress |
-| ⚙️ Design scalable microservices | 🔜 Next |
-| 🌍 Contribute to open‑source AI | 🔜 Next |
-| 🚀 Launch personal AI product | 💡 Ideation |
+| Mission | Progress Bar | ETA / Status |
+| :------ | :----------- | :----------- |
+| 🧠 **PyTorch & Transformers** | `████████████████████` 100% | ![Static Badge](https://img.shields.io/badge/STATUS-COMPLETED-00FF41?style=flat-square&logo=checkmarx&logoColor=00FF41&labelColor=0a0a0a) |
+| 🤖 **Autonomous AI Agents** | `████████████░░░░░░░░` 60% | ![Static Badge](https://img.shields.io/badge/STATUS-IN_PROGRESS-FFA500?style=flat-square&logo=statuspage&logoColor=FFA500&labelColor=0a0a0a) |
+| ⚙️ **Scalable Microservices** | `██████░░░░░░░░░░░░░░` 30% | ![Static Badge](https://img.shields.io/badge/STATUS-PLANNING-1E90FF?style=flat-square&logo=cloudflare&logoColor=1E90FF&labelColor=0a0a0a) |
+| 🌍 **Open‑Source Contribution** | `███████░░░░░░░░░░░░░` 35% | ![Static Badge](https://img.shields.io/badge/STATUS-ACTIVE-8A2BE2?style=flat-square&logo=github&logoColor=8A2BE2&labelColor=0a0a0a) |
+| 🚀 **Personal AI Product** | `██░░░░░░░░░░░░░░░░░░` 10% | ![Static Badge](https://img.shields.io/badge/STATUS-IDEATION-FF69B4?style=flat-square&logo=lightbulb&logoColor=FF69B4&labelColor=0a0a0a) |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Cybernetic Telemetry (Live Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jafarmohammadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarmohammadi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <!-- Stats Card (چپ) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jafarmohammadi&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=cccccc&hide_border=true&count_private=true" width="49%" />
+  <!-- Streak Card (راست) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafarmohammadi&theme=dark&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=cccccc&dates=cccccc&hide_border=true" width="49%" />
+</p>
+
+<!-- ردیف دوم: بیشترین زبان‌ها به صورت متمرکز با عرض کامل -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarmohammadi&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00FF41&text_color=cccccc&hide_border=true&langs_count=8" width="60%" />
 </p>
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/jafar)
-- 🐦 [Twitter](https://twitter.com/jafar)
-- 📧 [Email](mailto:jafar@example.com)
-- 🐙 [GitHub](https://github.com/jafarmohammadi)
-
----
+## 📡 Encrypted Uplink (Contact)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jafarmohammadi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/jafar">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" />
+  </a>
+  <a href="https://twitter.com/jafar">
+    <img src="https://img.shields.io/badge/X_(TWITTER)-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" />
+  </a>
+  <a href="mailto:jafar@example.com">
+    <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=googledocs&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" />
+  </a>
+</p>
+
+<!-- شمارنده بازدیدکنندگان و وضعیت اتصال -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jafarmohammadi&label=UPLINK_ACCESS_COUNT&color=00FF41&style=flat-square" alt="Visitor Counter" />
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/STATUS-READY_FOR_MISSION-00FF41?style=flat-square&logo=matrix&logoColor=00FF41&labelColor=0a0a0a" />
 </p>

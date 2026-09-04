@@ -30,24 +30,21 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me — Terminal Profile
+
+```
 ┌─────────────────────────────────────────────────────────────┐
-│ USER: jafar.mohammadi │
-│ ROLE: AI Engineer · Full‑Stack Developer │
-│ STATUS: 🟢 Active — ready for deployment │
-│ MISSION: Build autonomous AI infrastructure │
+│  USER:      jafar.mohammadi                                │
+│  ROLE:      AI Engineer · Full‑Stack Developer            │
+│  STATUS:    🟢 Active — ready for deployment              │
+│  MISSION:   Build autonomous AI infrastructure             │
 ├─────────────────────────────────────────────────────────────┤
-│ 🧠 Current Focus: Autonomous Agents & LLMs │
-│ ⚙️ Backend: FastAPI · Laravel │
-│ ☁️ Orchestration: Docker · Kubernetes │
-│ 🎯 Goal: Launch AI product in 2026 │
+│  🧠  Current Focus:  Autonomous Agents & LLMs             │
+│  ⚙️  Backend:        FastAPI · Laravel                    │
+│  ☁️  Orchestration:  Docker · Kubernetes                  │
+│  🎯  Goal:           Launch AI product in 2026            │
 └─────────────────────────────────────────────────────────────┘
-
-
-
----
-
+```
 ## 🛠️ Tech Stack
 
 ### 🤖 AI & Machine Learning

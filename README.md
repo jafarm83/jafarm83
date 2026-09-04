@@ -66,7 +66,6 @@
   </table>
 </div>
 
-```
 
 
 ## 🛠️ Tech Stack

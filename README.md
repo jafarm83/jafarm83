@@ -1,32 +1,14 @@
 <div align="center">
 
 <!-- ================================================================ -->
-<!--  🔹 TERMINAL UPLINK – MATRIX NEO-STYLE                          -->
+<!--  TERMINAL UPLINK – MATRIX NEO-STYLE (SAFE & CLEAN)              -->
 <!-- ================================================================ -->
 
-<!-- هدر تزئینی بالای تایپ‌رایتر -->
-<pre style="font-family: 'Courier New', monospace; color: #00FF41; background: #0a0a0a; display: inline-block; padding: 4px 18px; border: 1px solid #00FF41; border-radius: 4px; letter-spacing: 2px; font-size: 12px; margin-bottom: -10px;">
-┌─[ UPLINK: SECURE ]─[ NODE: ACTIVE ]─[ ENCRYPTION: AES-256 ]─┐
-</pre>
-
-<br />
-
-<!-- تایپ‌رایتر اصلی با خطوط هکری و سایز بزرگتر -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=◈_SYSTEM%3A_JAFAR_MOHAMMADI;◈_ROLE%3A_AI_ENGINEER_%7C_FULL-STACK;◈_STACK%3A_PYTHON_%7C_PYTORCH_%7C_LARAVEL;◈_STATUS%3A_READY_FOR_DEPLOYMENT" alt="Neon Terminal Header" />
 
-<br />
+<br/>
 
-<!-- فوتر تزئینی پایین تایپ‌رایتر -->
-<pre style="font-family: 'Courier New', monospace; color: #00FF41; background: #0a0a0a; display: inline-block; padding: 4px 18px; border: 1px solid #00FF41; border-top: none; border-radius: 0 0 4px 4px; letter-spacing: 2px; font-size: 12px; margin-top: -5px;">
-└─[ MATRIX ]─[ 0.0.0.0 ]─[ PING: 0.01ms ]──────────────────────┘
-</pre>
-
-<br />
-
-<!-- ================================================================ -->
-<!--  SOCIAL BADGES – DARK THEME WITH NEON GREEN TOUCH              -->
-<!-- ================================================================ -->
-
+<!-- SOCIAL BADGES – DARK THEME WITH NEON GREEN -->
 <p>
   <a href="https://linkedin.com/in/jafar"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="LinkedIn" /></a>
   <a href="https://twitter.com/jafar"><img src="https://img.shields.io/badge/X_(Twitter)-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="Twitter" /></a>
@@ -93,13 +75,10 @@ I love mixing **machine learning** with **modern backends** and contributing to 
 ## 📊 Cybernetic Telemetry (Live Stats)
 
 <p align="center">
-  <!-- Stats Card (چپ) -->
   <img src="https://github-readme-stats.vercel.app/api?username=jafarmohammadi&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=cccccc&hide_border=true&count_private=true" width="49%" />
-  <!-- Streak Card (راست) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafarmohammadi&theme=dark&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=cccccc&dates=cccccc&hide_border=true" width="49%" />
 </p>
 
-<!-- ردیف دوم: بیشترین زبان‌ها به صورت متمرکز با عرض کامل -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarmohammadi&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00FF41&text_color=cccccc&hide_border=true&langs_count=8" width="60%" />
 </p>
@@ -109,24 +88,13 @@ I love mixing **machine learning** with **modern backends** and contributing to 
 ## 📡 Encrypted Uplink (Contact)
 
 <p align="center">
-  <a href="https://linkedin.com/in/jafar">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" />
-  </a>
-  <a href="https://twitter.com/jafar">
-    <img src="https://img.shields.io/badge/X_(TWITTER)-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" />
-  </a>
-  <a href="mailto:jafar@example.com">
-    <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=googledocs&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" />
-  </a>
+  <a href="https://linkedin.com/in/jafar"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
+  <a href="https://twitter.com/jafar"><img src="https://img.shields.io/badge/X_(TWITTER)-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
+  <a href="mailto:jafar@example.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/RESUME-0A0A0A?style=for-the-badge&logo=googledocs&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" /></a>
 </p>
 
-<!-- شمارنده بازدیدکنندگان و وضعیت اتصال -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jafarmohammadi&label=UPLINK_ACCESS_COUNT&color=00FF41&style=flat-square" alt="Visitor Counter" />
   &nbsp;&nbsp;•&nbsp;&nbsp;

@@ -36,85 +36,82 @@
 <div align="center">
 
 <!-- ============================================================ -->
-<!--  کارت اصلی پروفایل با طراحی نئونی                            -->
+<!--  کارت اصلی با افکت شیشه‌ای (Glassmorphism)                   -->
 <!-- ============================================================ -->
 
-<table align="center" width="100%" style="border-collapse: collapse; border: 2px solid #00FF41; background: #0a0a0a; border-radius: 12px;">
-  <tr>
-    <td align="center" style="padding: 30px 20px; border: none;">
-      
-      <!-- هدر با نام و نقش -->
-      <h2 style="color: #00FF41; font-family: 'Courier New', monospace; margin: 0; font-size: 28px; text-shadow: 0 0 20px #00FF41;">
-        ⚡ JAFAR MOHAMMADI
-      </h2>
-      <p style="color: #cccccc; font-size: 18px; margin: 5px 0 20px 0; letter-spacing: 2px;">
-        AI Engineer · Full‑Stack Developer
-      </p>
-      
-      <!-- خط جداکننده نئونی -->
-      <div style="width: 80%; height: 2px; background: linear-gradient(90deg, transparent, #00FF41, transparent); margin: 10px auto;"></div>
-      
-      <!-- وضعیت و مأموریت به صورت بدج‌های درشت -->
-      <p style="margin: 15px 0;">
-        <img src="https://img.shields.io/badge/🟢_STATUS-Active_·_Ready_for_Deployment-00FF41?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/🎯_MISSION-Build_Autonomous_AI-00FF41?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a" />
-      </p>
-      
-    </td>
-  </tr>
-</table>
+<div style="display: inline-block; padding: 30px 40px; border-radius: 20px; background: rgba(10, 10, 10, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(0, 255, 65, 0.3); box-shadow: 0 8px 32px rgba(0, 255, 65, 0.1);">
+  
+  <!-- آواتار دایرهای با هاله سبز -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; background: #0a0a0a; border: 3px solid #00FF41; margin: 0 auto 15px auto; display: flex; align-items: center; justify-content: center; font-size: 48px; box-shadow: 0 0 40px rgba(0, 255, 65, 0.3);">
+    🧑‍💻
+  </div>
+  
+  <!-- نام و نقش -->
+  <h2 style="color: #00FF41; font-family: 'Segoe UI', sans-serif; margin: 0; font-size: 32px; font-weight: 700; letter-spacing: 1px;">
+    Jafar Mohammadi
+  </h2>
+  <p style="color: #aaaaaa; font-size: 16px; margin: 5px 0 0 0; letter-spacing: 3px; font-weight: 300;">
+    AI ENGINEER · FULL‑STACK DEVELOPER
+  </p>
+  
+  <!-- دایره وضعیت -->
+  <div style="margin: 15px 0 0 0;">
+    <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background: #00FF41; box-shadow: 0 0 20px #00FF41; animation: pulse 2s infinite; vertical-align: middle;"></span>
+    <span style="color: #00FF41; font-size: 14px; margin-left: 8px; vertical-align: middle;">Active · Ready for Deployment</span>
+  </div>
+  
+</div>
 
 <br />
 
 <!-- ============================================================ -->
-<!--  چهار کارت اطلاعاتی با آیکون و حاشیه نئونی                  -->
+<!--  سه کارت اطلاعاتی با طراحی شیشهای                            -->
 <!-- ============================================================ -->
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    
-    <!-- کارت اول: Current Focus -->
-    <td align="center" style="padding: 15px; border: 1px solid #00FF41; border-radius: 10px; background: #0a0a0a; width: 25%;">
-      <div style="font-size: 48px; margin-bottom: 8px;">🧠</div>
-      <div style="color: #00FF41; font-weight: bold; font-size: 14px; letter-spacing: 1px;">CURRENT FOCUS</div>
-      <div style="color: #cccccc; font-size: 16px; margin-top: 5px; word-wrap: break-word;">
-        <code style="background: #1a1a1a; padding: 4px 8px; border-radius: 4px; color: #00FF41;">Autonomous Agents &amp; LLMs</code>
-      </div>
-    </td>
-    
-    <!-- کارت دوم: Backend -->
-    <td align="center" style="padding: 15px; border: 1px solid #00FF41; border-radius: 10px; background: #0a0a0a; width: 25%;">
-      <div style="font-size: 48px; margin-bottom: 8px;">⚙️</div>
-      <div style="color: #00FF41; font-weight: bold; font-size: 14px; letter-spacing: 1px;">BACKEND</div>
-      <div style="color: #cccccc; font-size: 16px; margin-top: 5px;">
-        <code style="background: #1a1a1a; padding: 4px 8px; border-radius: 4px; color: #00FF41;">FastAPI · Laravel</code>
-      </div>
-    </td>
-    
-    <!-- کارت سوم: Orchestration -->
-    <td align="center" style="padding: 15px; border: 1px solid #00FF41; border-radius: 10px; background: #0a0a0a; width: 25%;">
-      <div style="font-size: 48px; margin-bottom: 8px;">☁️</div>
-      <div style="color: #00FF41; font-weight: bold; font-size: 14px; letter-spacing: 1px;">ORCHESTRATION</div>
-      <div style="color: #cccccc; font-size: 16px; margin-top: 5px;">
-        <code style="background: #1a1a1a; padding: 4px 8px; border-radius: 4px; color: #00FF41;">Docker · Kubernetes</code>
-      </div>
-    </td>
-    
-    <!-- کارت چهارم: Goal -->
-    <td align="center" style="padding: 15px; border: 1px solid #00FF41; border-radius: 10px; background: #0a0a0a; width: 25%;">
-      <div style="font-size: 48px; margin-bottom: 8px;">🎯</div>
-      <div style="color: #00FF41; font-weight: bold; font-size: 14px; letter-spacing: 1px;">GOAL</div>
-      <div style="color: #cccccc; font-size: 16px; margin-top: 5px;">
-        <code style="background: #1a1a1a; padding: 4px 8px; border-radius: 4px; color: #00FF41;">Launch AI product in 2026</code>
-      </div>
-    </td>
-    
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
+
+  <!-- کارت اول -->
+  <div style="flex: 1; min-width: 180px; max-width: 220px; padding: 20px; border-radius: 16px; background: rgba(10, 10, 10, 0.6); backdrop-filter: blur(8px); border: 1px solid rgba(0, 255, 65, 0.2);">
+    <div style="font-size: 36px; text-align: center;">🧠</div>
+    <h4 style="color: #00FF41; text-align: center; margin: 10px 0 5px 0; font-size: 14px; letter-spacing: 1px;">FOCUS</h4>
+    <p style="color: #cccccc; text-align: center; margin: 0; font-size: 13px; line-height: 1.5;">
+      Autonomous Agents &amp; LLMs
+    </p>
+  </div>
+
+  <!-- کارت دوم -->
+  <div style="flex: 1; min-width: 180px; max-width: 220px; padding: 20px; border-radius: 16px; background: rgba(10, 10, 10, 0.6); backdrop-filter: blur(8px); border: 1px solid rgba(0, 255, 65, 0.2);">
+    <div style="font-size: 36px; text-align: center;">⚙️</div>
+    <h4 style="color: #00FF41; text-align: center; margin: 10px 0 5px 0; font-size: 14px; letter-spacing: 1px;">BACKEND</h4>
+    <p style="color: #cccccc; text-align: center; margin: 0; font-size: 13px; line-height: 1.5;">
+      FastAPI · Laravel
+    </p>
+  </div>
+
+  <!-- کارت سوم -->
+  <div style="flex: 1; min-width: 180px; max-width: 220px; padding: 20px; border-radius: 16px; background: rgba(10, 10, 10, 0.6); backdrop-filter: blur(8px); border: 1px solid rgba(0, 255, 65, 0.2);">
+    <div style="font-size: 36px; text-align: center;">🎯</div>
+    <h4 style="color: #00FF41; text-align: center; margin: 10px 0 5px 0; font-size: 14px; letter-spacing: 1px;">MISSION</h4>
+    <p style="color: #cccccc; text-align: center; margin: 0; font-size: 13px; line-height: 1.5;">
+      Launch AI Product in 2026
+    </p>
+  </div>
 
 </div>
 
+</div>
+
+<!-- ============================================================ -->
+<!--  استایل انیمیشن چشمک‌زن (برای دایره وضعیت)                   -->
+<!-- ============================================================ -->
+
+<style>
+  @keyframes pulse {
+    0% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(0.8); }
+    100% { opacity: 1; transform: scale(1); }
+  }
+</style>
 
 ## 🛠️ Tech Stack
 

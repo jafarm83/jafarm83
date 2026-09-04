@@ -1,88 +1,97 @@
 <div align="center">
 
-<!-- ====================================================================== -->
-<!--   MATRIX INITIALIZATION SEQUENCE — UPLINK ESTABLISHED                  -->
-<!-- ====================================================================== -->
+<!-- ============================================================ -->
+<!--  TYPING HEADER – MATRIX STYLE                                -->
+<!-- ============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=600&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+MATRIX+UPLINK+ACTIVE;%3E+OPERATOR%3A+JAFAR+MOHAMMADI;%3E+NEURAL+INTERFACE+ONLINE;%3E+WELCOME+TO+THE+GRID" alt="Matrix Uplink" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=550&lines=JAFAR+MOHAMMADI;AI+Engineer+%7C+Full-Stack+Dev;Python+%7C+PyTorch+%7C+Laravel" alt="Typing SVG" />
 
-<br/>
+<br />
 
-<!-- CYBER BADGES — GLOWING NEON -->
+<!-- ============================================================ -->
+<!--  SOCIAL BADGES – CLEAN & MODERN                              -->
+<!-- ============================================================ -->
+
 <p>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logo=matrix&logoColor=00FF41&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/SECTOR-DARKNET-00FF41?style=for-the-badge&logo=torproject&logoColor=00FF41&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/NODE-ORBIT-00FF41?style=for-the-badge&logo=spacex&logoColor=00FF41&labelColor=0a0a0a" />
+  <a href="https://linkedin.com/in/jafar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/jafar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:jafar@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/jafarmohammadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Jafar Mohammadi** — an AI engineer and full‑stack developer passionate about building intelligent, scalable systems.  
+I love mixing **machine learning** with **modern backends** and contributing to open‑source.
+
+- 🧠 Currently diving into **autonomous agents & LLMs**
+- ⚙️ Building microservices with **FastAPI + Laravel**
+- ☁️ Orchestrating with **Docker & Kubernetes**
+- 🎯 Mission: launch a personal AI product in 2026
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🌐 Backend & API
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Databases & Cache
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 Current Focus
+
+| Mission | Status |
+| :------ | :----- |
+| 🧠 Master PyTorch & Transformers | ✅ Done |
+| 🤖 Build autonomous AI agents | ⏳ In progress |
+| ⚙️ Design scalable microservices | 🔜 Next |
+| 🌍 Contribute to open‑source AI | 🔜 Next |
+| 🚀 Launch personal AI product | 💡 Ideation |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jafarmohammadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarmohammadi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- ====================================================================== -->
-<!--   ASCII MATRIX RAIN (STATIC HEADER)                                    -->
-<!-- ====================================================================== -->
+## 📫 Let's Connect
 
-<pre style="font-family: 'Courier New', monospace; color: #00FF41; background: #0a0a0a; padding: 10px; border-radius: 8px; line-height: 1.2;">
-      ██╗ █████╗ ███████╗ █████╗ ██████╗     ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗ ██╗
-      ██║██╔══██╗██╔════╝██╔══██╗██╔══██╗    ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗██║
-      ██║███████║█████╗  ███████║██████╔╝    ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██████╔╝██║
- ██   ██║██╔══██║██╔══╝  ██╔══██║██╔══██╗    ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██╔══██╗██║
- ╚█████╔╝██║  ██║██║     ██║  ██║██║  ██║    ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║  ██║██║
-  ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-</pre>
+- 💼 [LinkedIn](https://linkedin.com/in/jafar)
+- 🐦 [Twitter](https://twitter.com/jafar)
+- 📧 [Email](mailto:jafar@example.com)
+- 🐙 [GitHub](https://github.com/jafarmohammadi)
 
 ---
 
-<!-- ====================================================================== -->
-<!--   TERMINAL WINDOW — LIVE COMMAND FEED                                -->
-<!-- ====================================================================== -->
-
-```bash
-┌─[ OPERATOR: JAFAR ]─[ 0.0.0.0 ]─[ ORBIT: LEO ]
-├─ $ whoami
-│  > jafar.mohammadi
-├─ $ uname -a
-│  > Linux cybernode 6.8.0-arch #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux
-├─ $ python3 -c "import torch; print(torch.__version__)"
-│  > 2.4.0+cu121
-├─ $ ping -c 3 matrix.ai
-│  > PONG from 127.0.0.1: latency 0.01ms ✅
-└─ $ █
-
-🛸 CYBERNETIC TELEMETRY
-
-  ███████╗ █████╗ ███████╗ █████╗ ██████╗       OPERATOR  : Jafar Mohammadi
-  ╚══███╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗      STATUS    : Infiltrating Neural Nets
-    ███╔╝ ███████║█████╗  ███████║██████╔╝      PROTOCOLS : Python 3.12 | PyTorch | PHP 8
-   ███╔╝  ██╔══██║██╔══╝  ██╔══██║██╔══██╗      CONTAINER : Linux / Docker / Kubernetes
-  ███████╗██║  ██║██║     ██║  ██║██║  ██║      OBJECTIVE : Autonomous AI Infrastructure
-  ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝      TELEMETRY : Uplink Stabilized 🟢
-
-| 🌐 **Neural Core**             | ⚡ **Backend Engine**       | 🛡️ **Defense Grid**              |
-| :---------------------------- | :------------------------- | :------------------------------- |
-| `Python 3.12` · `PyTorch`     | `PHP 8` · `FastAPI`        | `Docker` · `Kubernetes`          |
-| `TensorFlow` · `Transformers` | `PostgreSQL` · `Redis`     | `Linux (Bash)` · `Git`           |
-| *LLMs, Vision, Agents*        | *REST, Streaming, GraphQL* | *CI/CD, Orchestration, Security* |
-
-🪐 CODING PLANETS · MISSION READINESS
-
-| PLANET     | LANGUAGE / TOOL  | STATUS         |
-| :--------- | :--------------- | :------------- |
-| 🟦 Pythonia | Python · PyTorch | 🚀 Colonized    |
-| 🟪 PHPiter  | PHP · Laravel    | 🌍 Terraforming |
-| 🟧 Dockeron | Docker · K8s     | 🛰️ Orbiting    |
-| 🟩 GitHubia | Git · GitHub     | ⭐ Home Base    |
-| 🔷 Linuxia  | Linux · Bash     | 🖥️ Core System |
-
-🎯 FUTURE MISSIONS
-
-- [x] Phase 1 — Master PyTorch & Transformers
-- [ ] Phase 2 — Build autonomous AI agents
-- [ ] Phase 3 — Design scalable microservices
-- [ ] Phase 4 — Contribute to open‑source AI
-- [ ] Phase 5 — Launch personal AI product
-
-📡 INTERCEPTED SATELLITE METRICS
-
-👾 QUANTUM GRID ACTIVITY
-
-📡 ESTABLISH ENCRYPTED LINK
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jafarmohammadi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>

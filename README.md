@@ -37,8 +37,8 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  USER:      jafar.mohammadi                                │
-│  ROLE:      AI Engineer · Full‑Stack Developer            │
-│  STATUS:    🟢 Active — ready for deployment              │
+│  ROLE:      AI Engineer · Full‑Stack Developer             │
+│  STATUS:    🟢 Active — ready for deployment               
 │  MISSION:   Build autonomous AI infrastructure             │
 ├─────────────────────────────────────────────────────────────┤
 │  🧠  Current Focus:  Autonomous Agents & LLMs             │

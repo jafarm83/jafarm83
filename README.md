@@ -31,21 +31,41 @@
 
 ---
 
-## 👨‍💻 About Me — Terminal Profile
+## 👨‍💻 About Me — Cyber Profile
 
+<div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  USER:      jafar.mohammadi                                │
-│  ROLE:      AI Engineer · Full‑Stack Developer             │
-│  STATUS:    🟢 Active — ready for deployment               
-│  MISSION:   Build autonomous AI infrastructure             │
-├─────────────────────────────────────────────────────────────┤
-│  🧠  Current Focus:  Autonomous Agents & LLMs             │
-│  ⚙️  Backend:        FastAPI · Laravel                    │
-│  ☁️  Orchestration:  Docker · Kubernetes                  │
-│  🎯  Goal:           Launch AI product in 2026            │
-└─────────────────────────────────────────────────────────────┘
+| <img src="https://img.shields.io/badge/USER-jafar.mohammadi-00FF41?style=for-the-badge&logo=matrix&logoColor=00FF41&labelColor=0a0a0a" /> | <img src="https://img.shields.io/badge/ROLE-AI_Engineer_·_Full--Stack-00FF41?style=for-the-badge&logo=codeium&logoColor=00FF41&labelColor=0a0a0a" /> |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/STATUS-🟢_Active_·_Ready_for_Deployment-00FF41?style=for-the-badge&logo=statuspage&logoColor=00FF41&labelColor=0a0a0a" /> | <img src="https://img.shields.io/badge/MISSION-Build_Autonomous_AI-00FF41?style=for-the-badge&logo=ai&logoColor=00FF41&labelColor=0a0a0a" /> |
+
+</div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px; border: 1px solid #00FF41; border-radius: 8px; background: #0a0a0a;">
+        <strong>🧠 Current Focus</strong><br>
+        <code>Autonomous Agents &amp; LLMs</code>
+      </td>
+      <td align="center" style="padding: 10px; border: 1px solid #00FF41; border-radius: 8px; background: #0a0a0a;">
+        <strong>⚙️ Backend</strong><br>
+        <code>FastAPI · Laravel</code>
+      </td>
+      <td align="center" style="padding: 10px; border: 1px solid #00FF41; border-radius: 8px; background: #0a0a0a;">
+        <strong>☁️ Orchestration</strong><br>
+        <code>Docker · Kubernetes</code>
+      </td>
+      <td align="center" style="padding: 10px; border: 1px solid #00FF41; border-radius: 8px; background: #0a0a0a;">
+        <strong>🎯 Goal</strong><br>
+        <code>Launch AI product in 2026</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ```
 
 

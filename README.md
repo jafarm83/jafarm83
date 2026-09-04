@@ -1,3 +1,50 @@
+<div align="center">
+
+<!-- ============================================================ -->
+<!--  MATRIX UPLINK — HEADER                                      -->
+<!-- ============================================================ -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=◈_SYSTEM%3A_JAFAR_MOHAMMADI;◈_ROLE%3A_AI_ENGINEER_%7C_FULL-STACK;◈_STACK%3A_PYTHON_%7C_PYTORCH_%7C_LARAVEL;◈_STATUS%3A_READY_FOR_DEPLOYMENT" alt="Neon Terminal Header" />
+
+<br />
+
+<!-- ============================================================ -->
+<!--  SOCIAL BADGES                                               -->
+<!-- ============================================================ -->
+
+<p>
+  <a href="https://linkedin.com/in/jafar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/jafar">
+    <img src="https://img.shields.io/badge/X_(Twitter)-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="Twitter" />
+  </a>
+  <a href="mailto:jafar@example.com">
+    <img src="https://img.shields.io/badge/Encrypted_Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="Email" />
+  </a>
+  <a href="https://github.com/jafarmohammadi">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A" alt="GitHub" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me — Terminal Profile
+┌─────────────────────────────────────────────────────────────┐
+│ USER: jafar.mohammadi │
+│ ROLE: AI Engineer · Full‑Stack Developer │
+│ STATUS: 🟢 Active — ready for deployment │
+│ MISSION: Build autonomous AI infrastructure │
+├─────────────────────────────────────────────────────────────┤
+│ 🧠 Current Focus: Autonomous Agents & LLMs │
+│ ⚙️ Backend: FastAPI · Laravel │
+│ ☁️ Orchestration: Docker · Kubernetes │
+│ 🎯 Goal: Launch AI product in 2026 │
+└─────────────────────────────────────────────────────────────┘
+
+
 
 ---
 

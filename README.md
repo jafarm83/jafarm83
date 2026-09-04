@@ -45,12 +45,12 @@ learning_philosophy: "Theory informed by code, code validated by metrics."
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jafarm83&show_icons=true&theme=radical&hide_border=true&v=1" width="48%" />
+  <img src="./stats.svg" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafarm83&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarm83&layout=compact&theme=radical&hide_border=true&v=1" width="45%" />
+  <img src="./top-langs.svg" width="45%" />
 </p>
 
 ---
